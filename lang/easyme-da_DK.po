@@ -1,0 +1,46 @@
+#. Plugin Name of the plugin/theme
+msgid "EasyMe Connect"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://easyme.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Connect your EasyMe account to Wordpress and offer your services directly "
+"from your own Web site."
+msgstr "Forbind din EasyMe-konto til Wordpress og lav salg direkte fra din egen hjemmeside."
+
+#. Author of the plugin/theme
+msgid "EasyMe"
+msgstr ""
+
+#: connected.html
+msgid "You are connected to this EasyMe site"
+msgstr "Du er forbundet til dette EasyMe-site"
+
+msgid "Connect to a different site"
+msgstr "Forbind til et andet site"
+
+msgid "To disconnect, simply de-activate the EasyMe Connect plugin"
+msgstr "Hvis du vil afbryde forbindelsen skal du blot de-aktivere dette plugin"
+
+msgid "Now you can pull out integration links from your EasyMe account (settings > intgration) and insert them here in Wordpress."
+msgstr "Nu kan du hive integrations-links fra din EasyMe-konto (indstillinger > integration) og indsætte dem hvor du ønsker på dine Wordpress-sider."
+
+msgid "How to use this plugin"
+msgstr "Sådan bruger du dit plugin"
+
+#: disconnected.html
+msgid "Click the button below to authorize Wordpress to connect to your EasyMe site"
+msgstr "Tryk på knappen herunder for at give Wordpress tilladelse til at snakke med din EasyMe-konto"
+
+msgid "Connect to EasyMe"
+msgstr "Forbind til EasyMe"
+
+msgid "You still need to <a href=\"%s\">connect Wordpress to your EasyMe account</a> before you are ready to use the plugin"
+msgstr "Du skal stadig lige <a href=\"%s\">forbinde din Wordpress med EasyMe</a> for at få sparket dit nye plugin helt igang"
+
+msgid "You must run PHP version 5.4.0 or newer for the EasyMe Connect plugin to work"
+msgstr "Du skal køre PHP i version 5.4.0 eller nyere for at bruge dette plugin"

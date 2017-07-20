@@ -1,0 +1,43 @@
+# Copyright (C) 2017 EasyMe Connect
+# This file is distributed under the same license as the EasyMe Connect package.
+msgid ""
+msgstr ""
+"Project-Id-Version: EasyMe Connect 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/easyme\n"
+"POT-Creation-Date: 2017-04-19 12:01:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: connected.php:7
+msgid "You are connected to this EasyMe site"
+msgstr ""
+
+#: connected.php:11
+msgid "Connect to a different site"
+msgstr ""
+
+#: connected.php:14
+msgid "To disconnect, simply de-activate the EasyMe Connect plugin"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "EasyMe Connect"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://easyme.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Connect your EasyMe account to Wordpress and offer your services directly "
+"from your own Web site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "EasyMe"
+msgstr ""
